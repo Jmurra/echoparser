@@ -8,6 +8,9 @@ utils.stop
   end
   quit
   shut up
+  self destruct
+  finish
+  done
   ---
 
 utils.repeat
@@ -23,12 +26,15 @@ utils.repeat
   redo
   say again
   repeat yourself
+  please repeat
+  Huh
   ---
 
 utils.setVolumeAbsolute
   volume {volume}
   set volume {volume}
   set volume to {volume}
+  put volume on {volume}
   ---
   volume: Number
 

@@ -1,10 +1,13 @@
-reponses.yes
+responses.yes
   yes
   sure
   true
-  acknowlege
+  acknowledge
   yep
   ok
+  right
+  agreed
+  si
   ---
 
 responses.no
@@ -12,4 +15,5 @@ responses.no
   nope
   not
   never
+  denied
   ---

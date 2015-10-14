@@ -21,6 +21,8 @@ time.getCurrentTimeAtLocation
   what is the time on {where}
   what is the now on {where}
   what is the time now on {where}
+  what's the current time {where}
+  time please {where}
   ---
   type: String
 
@@ -33,4 +35,3 @@ time.getCurrentTime
   what is the now
   what is the time now
   ---
-
